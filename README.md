@@ -42,6 +42,12 @@ There is not a strong relationship between windspeed and latitude, with most cit
   <img width="320" height="200" src="https://github.com/ovinueza/Web_Visualization_Dashboard/blob/master/WebImages/CityLatitude_vs_WindSpeed.png">
 </p>
 
+### Summary 
+Cities between the equator and 20 degrees latitude have high temperatures, but the highest temperatures for this time of year are in between the 18 and 42 degree latitudes, this may because of summer season and geographical location.
+
+Is interesting to note that most cities during this time of year have high humidity and there is not a single city in the equator with low humidity.
+
+There is not a strong relationship between windspeed and latitude, with most cities having windspeed below 10 mph. The few cities with windspeeds above 20 mph may be in geographical areas where those speeds are common.
 
 
 
